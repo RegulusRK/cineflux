@@ -6,7 +6,7 @@ A simple landing page concept for a fictional movie/cinema website. Built using 
 
 Click below to view the live version of the project via GitHub Pages:
 
-👉 [Live Site]https://regulusrk.github.io/cineflux/cine-landing-page-jjk0/
+👉 [Live Site](https://regulusrk.github.io/cineflux/cine-landing-page-jjk0/)
 
 
 ## 📂 Folder Structure
